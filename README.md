@@ -2,7 +2,9 @@
 
 **修改自 [win7_x64_PaddleOCR-json](https://github.com/hiroi-sora/Umi-OCR_plugins/tree/2.0.0/win7_x64_PaddleOCR-json)**
 
-兼容 `Windows 7/10/11 x64`。
+兼容 `Windows 7/10/11 x64`
+
+下载预编译好的插件: [Releaese](https://github.com/OneDongua/PaddleOCR-json_PP-OCRv5_umi_plugin/releases/latest)
 
 ## 部署步骤
 
