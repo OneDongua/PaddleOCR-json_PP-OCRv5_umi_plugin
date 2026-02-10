@@ -4,7 +4,7 @@
 
 兼容 `Windows 7/10/11 x64`
 
-下载预编译好的插件: [Releaese](https://github.com/OneDongua/PaddleOCR-json_PP-OCRv5_umi_plugin/releases/latest)
+**下载预编译好的插件: [Releases](https://github.com/OneDongua/PaddleOCR-json_PP-OCRv5_umi_plugin/releases/latest)**
 
 ## 部署步骤
 
@@ -18,7 +18,7 @@ git clone https://github.com/OneDongua/PaddleOCR-json_PP-OCRv5_umi_plugin.git
 
 #### 方式1：直接下载
 
-- 浏览器访问 [PaddleOCR-json 发布页](https://github.com/OneDongua/PaddleOCR-json/releases) ，获取最新的 Windows 发行包 `PaddleOCR-json_v1.X.X_windows_x86-64.7z` 的链接，下载压缩包并解压。
+- 浏览器访问 [PaddleOCR-json 发布页](https://github.com/OneDongua/PaddleOCR-json/releases) ，获取最新的 Windows 发行包 `PaddleOCR-json_v1.4.1-ext_windows_x64.7z` 的链接，下载压缩包并解压。
 - 解压出来的文件夹，改名为 `win7_x64_PaddleOCR-json` 。
 
 #### 方式2：从源码构建
