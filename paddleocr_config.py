@@ -81,7 +81,7 @@ def _getRamMax():
 _ramMax = _getRamMax()
 
 globalOptions = {
-    "title": tr("PaddleOCR（PP-OCRv5）"),
+    "title": tr("PaddleOCR（PP-OCRv5 Lite）"),
     "type": "group",
     "enable_mkldnn": {
         "title": tr("启用MKL-DNN加速"),
@@ -113,7 +113,7 @@ globalOptions = {
 }
 
 localOptions = {
-    "title": tr("PaddleOCR PP-OCRv5"),
+    "title": tr("PaddleOCR PP-OCRv5 Lite"),
     "type": "group",
     "language": {
         "title": tr("语言/模型库"),
