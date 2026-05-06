@@ -1,0 +1,6 @@
+# PP-OCR v5 日本語（高速 - mobile rec）
+
+det_model_dir models/PP-OCRv5_mobile_det_infer
+cls_model_dir models/PP-LCNet_x0_25_textline_ori_infer
+rec_model_dir models/PP-OCRv5_mobile_rec_infer
+rec_char_dict_path models/ppocr_keys_v5.txt
