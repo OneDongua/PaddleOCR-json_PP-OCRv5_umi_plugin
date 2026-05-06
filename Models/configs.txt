@@ -1,0 +1,8 @@
+config_simplified_server.txt 简体中文（高精度）
+config_traditional_server.txt 繁體中文（高精度）
+config_en_server.txt English（高精度）
+config_ja_server.txt 日本語（高精度）
+config_simplified_fast.txt 简体中文（快速）
+config_traditional_fast.txt 繁體中文（快速）
+config_en_fast.txt English（快速）
+config_ja_fast.txt 日本語（快速）
